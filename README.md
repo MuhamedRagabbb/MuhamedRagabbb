@@ -7,13 +7,13 @@ Copy this content into a repo named exactly `MuhamedRagabbb` to make it your pro
 
 # 👋 Hey, I'm **Muhamed Ragab**
 
-**Cybersecurity Enthusiast • Junior Pentester • CS Student (FCI)**
+**Cybersecurity Enthusiast • Junior Pentester • CS Student at(HNU)**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=MuhamedRagabbb\&style=for-the-badge)](https://github.com/MuhamedRagabbb)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin\&logoColor=white\&style=for-the-badge)](https://www.linkedin.com/in/USERNAME_HERE/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail\&logoColor=white\&style=for-the-badge)](mailto:YOUR_EMAIL_HERE)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?logo=tryhackme\&logoColor=white\&style=for-the-badge)](https://tryhackme.com/p/THM_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin\&logoColor=white\&style=for-the-badge)](www.linkedin.com/in/muhamedragab)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail\&logoColor=white\&style=for-the-badge)](muhammed.ragab.rashad@gmail.com)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?logo=tryhackme\&logoColor=white\&style=for-the-badge)](https://tryhackme.com/p/M7mdrgb)
 [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Profile-111927?logo=hackthebox\&logoColor=7FFF00\&style=for-the-badge)](https://app.hackthebox.com/profile/HTB_ID)
 
 </div>
