@@ -1,12 +1,12 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+%2C+I'm+Muhamed+Ragab+%F0%9F%91%8B;CS+Student+%F0%9F%8E%93;Robotics+Enthusiast+%F0%9F%A4%96;Cybersecurity+Explorer+%F0%9F%94%90;Always+Learning+%2C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Muhamed+Ragab;CS+Student+%7C+Cairo%2C+Egypt;Robotics+%26+Cybersecurity;Computer+Vision+%26+ML)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🌐 Socials
+## 🌐 Connect with me
 
 <div align="center">
 
@@ -24,19 +24,25 @@
 ```python
 class MuhamedRagab:
     def __init__(self):
-        self.name       = "Muhamed Ragab"
-        self.role       = "CS Student"
-        self.interests  = ["Robotics 🤖", "Cybersecurity 🔐", "Machine Learning 🧠"]
+        self.education  = "Computer Science Student"
+        self.focus      = ["Robotics", "Cybersecurity", "Computer Vision"]
         self.languages  = ["Python", "C++", "C", "Java"]
-        self.currently  = "Building cool stuff & breaking things ethically"
-        self.goal       = "To merge robotics + AI + security into one 🚀"
-
-    def say_hi(self):
-        print("Thanks for visiting my profile! Let's build something amazing.")
-
-me = MuhamedRagab()
-me.say_hi()
+        self.interests  = ["Embedded Systems", "CTF", "ML Research"]
+        self.currently  = "Exploring the intersection of AI and security"
 ```
+
+---
+
+## 🚀 Projects
+
+### 🔬 Blood Cells Detection & Counter
+> Computer Vision project for automated detection and counting of blood cells from microscopy images.
+
+- Detects **RBCs** (Red Blood Cells) and **WBCs** (White Blood Cells)
+- Uses classical CV techniques alongside deep learning
+- Built with **OpenCV**, **Python**, and **Jupyter Notebook**
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-blood__cells__detection-58a6ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhamedRagabbb/blood_cells_detection)
 
 ---
 
@@ -44,18 +50,18 @@ me.say_hi()
 
 **Languages**
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-**AI / ML & Data**
+**AI / ML & Computer Vision**
 
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
@@ -98,16 +104,6 @@ me.say_hi()
 <div align="center">
 
 ![](https://github-contributor-stats.vercel.app/api?username=MuhamedRagabbb&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-</div>
-
----
-
-### ✍️ Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 </div>
 
