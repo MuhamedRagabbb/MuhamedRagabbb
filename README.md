@@ -39,7 +39,7 @@ class MuhamedRagab:
 > Computer Vision project for automated detection and counting of blood cells from microscopy images.
 
 - Detects **RBCs** (Red Blood Cells) and **WBCs** (White Blood Cells)
-- Uses classical CV techniques alongside deep learning
+- Uses image enhancement, filtering, and classical CV techniques
 - Built with **OpenCV**, **Python**, and **Jupyter Notebook**
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-blood__cells__detection-58a6ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhamedRagabbb/blood_cells_detection)
