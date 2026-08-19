@@ -25,26 +25,12 @@
 class MuhamedRagab:
     def __init__(self):
         self.education  = "Computer Science Student"
-        self.focus      = ["Robotics", "Cybersecurity", "Computer Vision"]
+        self.focus      = ["Robotics", "agentic AI", "deep learning"]
         self.languages  = ["Python", "C++", "C", "Java"]
-        self.interests  = ["Embedded Systems", "CTF", "ML Research"]
-        self.currently  = "Exploring the intersection of AI and security"
+        self.interests  = ["agentic systems", "ML Research", "MLOPS"]
+        self.currently  = "deep focus in agentic AI"
 ```
 
----
-
-## 🚀 Projects
-
-### 🔬 Blood Cells Detection & Counter
-> Computer Vision project for automated detection and counting of blood cells from microscopy images.
-
-- Detects **RBCs** (Red Blood Cells) and **WBCs** (White Blood Cells)
-- Uses image enhancement, filtering, and classical CV techniques
-- Built with **OpenCV**, **Python**, and **Jupyter Notebook**
-
-[![View Repo](https://img.shields.io/badge/View%20Repo-blood__cells__detection-58a6ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhamedRagabbb/blood_cells_detection)
-
----
 
 ## 💻 Tech Stack
 
